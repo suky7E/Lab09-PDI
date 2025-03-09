@@ -1,0 +1,8 @@
+ID,Name,Age,Email,Salary (USD)
+1,Alice,25,alice@gmail.com,500
+2,Bob,30,bob@gmail.com,450
+3,Charlie,-30,charlie@gmail.com,200
+4,David,40,david@gmail.com,Invalid
+5,Eve,28,eve@gmail.com,590
+6,Frank,35,frank@gmail.com,NaN
+7,Henry,39,henry@gmail.com,900

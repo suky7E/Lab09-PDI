@@ -1,0 +1,3 @@
+Invalid age for ID 3
+Invalid salary for ID 4
+Invalid salary for ID 6
